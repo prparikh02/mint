@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+.vscode/
+__pycache__/
+*.ipynb
+Runner.ipynb
+transactions*.json
+transactions*.csv
